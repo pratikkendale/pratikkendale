@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pratikkendale
-- 👀 I’m interested in Data science , ML,AI
-- 🌱 I’m currently learning ML&AI
+- 👀 I’m interested in web development
+- 🌱 I’m currently working on frontend and backend 
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me @pratikkendale or pratikkendale2910@gmail.com
 - 😄 Pronouns:ET
